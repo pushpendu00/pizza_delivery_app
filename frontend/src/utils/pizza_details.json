@@ -1,0 +1,191 @@
+[
+    {
+        "itemName" : "Malai Paneer Pizza",
+        "image" : "https://upload.wikimedia.org/wikipedia/commons/1/17/Malai_Paneer_Pizza_from_India.jpg",
+        "description" : "A enticing combination of spicy jalapenos and Masala Paneer which is built around the traditional combination of coconut , Panchphoran and mustard",
+        "category" :  ["veg","best-pizza"],
+        "price" : 299,
+        "rating" : "4.8",
+        "votes" : 8
+    },
+    {
+        "itemName" : "Champaran Veg Pizza",
+        "image" : "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7c2aeba3013425989fe8c1d662f3450f",
+        "description" : "Inspired by the authentic flavours of Champaran, a cheesy veg pizza loaded with red paparika, capsicum and mushrooms.",
+        "category" :  ["veg"],
+        "price" :299,
+        "rating" : "",
+        "votes" : 0
+    },
+    {
+        "itemName" : "Kosha Veg Pizza",
+        "image" : "https://www.pizzabank.in/wp-content/uploads/2023/11/Kosha-Veg-Pizza.jpg",
+        "description" : "A veg cheesy pizzas loaded with onion and mushroom made in the authentic Bengali Kosha recipe",
+        "category" :  ["veg"],
+        "price" : 299,
+        "rating" : "",
+        "votes" : 0
+    },
+    {
+        "itemName" : "Farmhouse Pizza",
+        "image" : "https://media-cdn.tripadvisor.com/media/photo-s/0b/da/61/df/main-order-1-farmhouse.jpg",
+        "description" : "Delightful combination of onion, capsicum, tomato & grilled mushroom. Available in Cheese Burst, Wheat Thin Crust and Pan Crust options.",
+        "category" :  ["veg","best-pizza","best-seller"],
+        "price" :269,
+        "rating" : "4.1",
+        "votes" : 54
+    },
+    {
+        "itemName" : "Margherita Pizza",
+        "image" : "https://www.dominos.co.in//files/items/Margherit.jpg",
+        "description" : "Classic delight with 100% real mozzarella cheese. Available in Cheese Burst, Wheat Thin Crust and Pan Crust options.",
+        "category" :  ["veg","best-pizza","best-seller"],
+        "price" : 109,
+        "rating" : "4.3",
+        "votes" : 105
+    },
+    {
+        "itemName" : "Fiery Jalapeno & Paprika",
+        "image" : "https://b.zmtcdn.com/data/dish_photos/fc2/231dc609f5a7e0d055dd8182a7440fc2.png",
+        "description" : "Spiciest veg pizza with jalapeno & red paprika toppings and a new spicy peri peri sauce.",
+        "category" :  ["veg"],
+        "price" : 179,
+        "rating" : "",
+        "votes" : 0
+    },
+    {
+        "itemName" : "Peppy Paneer Pizza",
+        "image" : "https://www.dominos.co.in//files/items/Peppy_Paneer.jpg",
+        "description" : "Flavorful trio of juicy paneer, crisp capsicum with spicy red paprika",
+        "category" :  ["veg"],
+        "price" : 269,
+        "rating" : "",
+        "votes" : 0
+    },
+    {
+        "itemName" : "Corn n Cheese Paratha Pizza",
+        "image" : "https://s3.ap-south-1.amazonaws.com/shopnowchat.com/Medium/638043662500983370_CornnCheeseParathaPizzajpg11182022110410AM",
+        "description" : "A crazy fusion like never before. A delicious fusion of corn stuffed paratha and cheesy pizza.",
+        "category" :  ["veg","best-pizza"],
+        "price" :189,
+        "rating" : "4.7",
+        "votes" : 19
+    },
+    {
+        "itemName" : "Blazing Onion & Paprika",
+        "image" : "https://i0.wp.com/retailupdates.news/wp-content/uploads/2023/07/img_0317.jpg",
+        "description" : "Hot & spicy pizza with onion & red paprika toppings and a new spicy peri peri sauce on a Domino's cheesy base.",
+        "category" :  ["veg","best-seller"],
+        "price" :179,
+        "rating" : "",
+        "votes" : 0
+    },
+    {
+        "itemName" : "Veg Extravaganza Pizza",
+        "image" : "https://www.dominos.co.in//files/items/Veg_Extravaganz.jpg",
+        "description" : "Black olives, capsicum, onion, grilled mushroom, corn, tomato, jalapeno & extra cheese. Available in Cheese Burst, Wheat Thin Crust and Pan Crust options.",
+        "category" :  ["veg","best-seller"],
+        "price" : 319,
+        "rating" : "4.1",
+        "votes" : 10
+    },
+    {
+        "itemName" : "Indi Tandoori Paneer Pizza",
+        "image" : "https://www.dominos.co.in//files/items/IndianTandooriPaneer.jpg",
+        "description" : "It is hot. It is spicy. It is oh-so-Indian. Tandoori paneer with capsicum, red paprika & mint mayo. Available in Cheese Burst, Wheat Thin Crust and Pan Crust options.",
+        "category" :  ["veg"],
+        "price" : 319,
+        "rating" : "4.6",
+        "votes" : 11
+    },
+    {
+        "itemName" : "Malai Chingri Pizza",
+        "image" : "https://b.zmtcdn.com/data/dish_photos/860/d5b7f13bedb72defa1f5fed95a3b3860.jpeg",
+        "description" : "An irresistible fusion of authentic Malai sauce, succulent Chingri (Prawns) & Red Paprika with a sprinkle of Panch phoran seasoning",
+        "category" :  ["non-veg"],
+        "price" :399,
+        "rating" : "",
+        "votes" : 0
+    },
+    {
+        "itemName" : "Champaran Mutton Pizza",
+        "image" : "https://b.zmtcdn.com/data/dish_photos/e68/f5da86b3de65f32fa2540dcb070f9e68.jpeg?fit=around|130:130&crop=130:130;*,*",
+        "description" : "Savor the infusion of authentic Champaran sauce topped with our delectable Mutton meatball & a dash of Red Paprika",
+        "category" :  ["non-veg"],
+        "price" : 399,
+        "rating" : "",
+        "votes" : 0
+    },
+    {
+        "itemName" : "Kosha Mangsho Pizza",
+        "image" : "https://b.zmtcdn.com/data/dish_photos/c21/e42cc4ef8ebb2ee8f2ec61a1f90e8c21.jpeg?fit=around|130:130&crop=130:130;*,*",
+        "description" : "A first of its kind Kosha Mangsho pizza. Made with our authentic Kosha sauce topped with our delectable Mutton meatball & Onion",
+        "category" :  ["non-veg"],
+        "price" : 399,
+        "rating" : "",
+        "votes" : 0
+    },
+    {
+        "itemName" : "Pepper Barbecue Chicken Pizza",
+        "image" : "https://b.zmtcdn.com/data/dish_photos/829/7602a3d88b2aeb0053954d96be9a9829.jpeg?fit=around|130:130&crop=130:130;*,*",
+        "description" : "Pepper barbecue chicken for that extra zing. Available in Cheese Burst, Wheat Thin Crust and Pan Crust options.",
+        "category" :  ["non-veg","best-pizza","best-seller"],
+        "price" : 259,
+        "rating" : "4.2",
+        "votes" : 70
+    },
+    {
+        "itemName" : "Chicken Dominator Pizza",
+        "image" : "https://b.zmtcdn.com/data/dish_photos/4db/22118134ebce9f89b2c12b95c19154db.jpeg?fit=around|130:130&crop=130:130;*,*",
+        "description" : "Loaded with double pepper barbecue chicken, peri-peri chicken, chicken tikka & grilled chicken rashers. Available in Cheese Burst, Wheat Thin Crust and Pan Crust options.",
+        "category" :  ["non-veg","best-pizza","best-seller"],
+        "price" : 369,
+        "rating" : "4.2",
+        "votes" : 30
+    },
+    {
+        "itemName" : "The 5 Chicken Feast Pizza",
+        "image" : "https://b.zmtcdn.com/data/dish_photos/812/03998b8a2a364faffde45ceb2bb95812.jpeg?fit=around|130:130&crop=130:130;*,*",
+        "description" : "Loaded with 5 different Chicken toppings - grilled Chicken Rashers, Chicken Meatballs, Chicken Tikka, herby Chicken Sausage and flavorful Chicken Keema",
+        "category" :  ["non-veg"],
+        "price" : 399,
+        "rating" : "4.5",
+        "votes" : 25
+    },
+    {
+        "itemName" : "Non Veg Supreme Pizza",
+        "image" : "https://b.zmtcdn.com/data/dish_photos/ef8/f03bf80c03fa196e84ccb8f2510b2ef8.jpeg?fit=around|130:130&crop=130:130;*,*",
+        "description" : "Supreme combination of black olives, onion, capsicum, grilled mushroom, pepper barbecue chicken, peri-peri chicken & grilled chicken rashers",
+        "category" :  ["non-veg"],
+        "price" : 369,
+        "rating" : "4.5",
+        "votes" : 18
+    },
+    {
+        "itemName" : "Chicken Sausage Pizza",
+        "image" : "https://b.zmtcdn.com/data/dish_photos/255/5779285fbfb3c04730f0b71ba4132255.jpeg?fit=around|130:130&crop=130:130;*,*",
+        "description" : "American classic! Spicy, herbed chicken sausage on pizza",
+        "category" :  ["non-veg","best-pizza"],
+        "price" : 209,
+        "rating" : "4",
+        "votes" :26
+    },
+    {
+        "itemName" : "Spiced Double Chicken",
+        "image" : "https://b.zmtcdn.com/data/dish_photos/c38/613401a1232b2bd8ba3c5ecb6173dc38.jpeg?fit=around|130:130&crop=130:130;*,*",
+        "description" : "Delightful combination of our spicy duo- Pepper Barbecue Chicken and Peri Peri Chicken for Chicken Lovers.",
+        "category" :  ["non-veg"],
+        "price" :309,
+        "rating" : "4.5",
+        "votes" : 10
+    },
+    {
+        "itemName" : "Chicken Golden Delight Pizza",
+        "image" : "https://b.zmtcdn.com/data/dish_photos/e90/69f2a726bd1ec0208ab36708ea02ae90.jpeg?fit=around|130:130&crop=130:130;*,*",
+        "description" : "Double pepper barbecue chicken, golden corn and extra cheese, true delight",
+        "category" :  ["non-veg"],
+        "price" : 319,
+        "rating" : "4.5",
+        "votes" : 12
+    }
+]

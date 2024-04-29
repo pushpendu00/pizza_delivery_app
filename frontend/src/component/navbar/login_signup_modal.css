@@ -1,0 +1,147 @@
+/* examples/custom-styling.css */
+.customModal {
+    background: black;
+    border-radius: 10px;
+}
+
+
+/* sign and si up popup modal */
+
+.signin-signup-div {
+    height: 100%;
+    width: 100%;
+    /* background-color: aquamarine; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    outline: none;
+}
+
+.model-box {
+    /* height: 450px;
+    width: 400px; */
+    padding: 10px;
+    border-radius: 15px;
+    /* background-color: rgb(56, 56, 56); */
+    & h2{
+        width: 100%;
+        font-size: 25px;
+        color: white;
+        text-align: center;
+    }
+    & p {
+        height: 40px;
+        display: flex;
+        justify-content: flex-end;
+
+        & div {
+            height: 100%;
+            width: 50px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            & .cross-icon {
+                height: 30px;
+                width: 30px;
+                color: white;
+                cursor: pointer;
+            }
+        }
+    }
+    & .form-div {
+        /* height: 300px; */
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        /* margin-top: 30px; */
+        text-align: center;
+
+        & .input-div {
+            margin-bottom: 20px;
+            /* height: 30px; */
+            width: 80%;
+            /* padding: 10px; */
+
+            /* border-radius: 10px; */
+            & input {
+                height: 100%;
+                width: 90%;
+                padding-left: 10px;
+                padding-right: 10px;
+                border-radius: 10px;
+                outline: none;
+                border: none;
+            }
+        }
+
+        & button {
+            height: 40px;
+            width: 80%;
+            border: none;
+            outline: none;
+            border-radius: 10px;
+            font-size: 20px;
+            color: white;
+            cursor: pointer;
+            background: linear-gradient(to bottom, #33ccff 0%, #6666ff 100%);
+        }
+    }
+}
+
+
+.change-sign-in-up-div{
+    height: 50px;
+    width: 100%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    /* background-color: aquamarine; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* flex-direction: column; */
+}
+.button-signIn, .button-signUp{
+    /* height :100%;
+    width: 80%; */
+    border-radius: 10px;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button-signIn{
+    background-color: aquamarine;
+}
+
+.button-signUp{
+    background-color: aquamarine;
+}
+
+.goto-signup{
+    padding-top: 20px;
+    font-size: 17px;
+    text-align: center;
+    color: white;
+    & span{
+        cursor: pointer;
+        color: rgb(255, 236, 31);
+    }
+}
+
+.cross-icon:hover {
+    transform: scale(1.5);
+    color: black;
+}
+
+/* @media only screen and (max-width : 450px) {
+    .model-box {
+        height: 50%;
+        width: 100%;
+    }
+} */
